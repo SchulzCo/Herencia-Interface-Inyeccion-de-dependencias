@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Herencia Interface Inyeccion de dependencias", "Herencia Interface Inyeccion de dependencias.csproj", "{B1C26E78-BE1A-431F-BB9E-B6F9E7106280}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1C26E78-BE1A-431F-BB9E-B6F9E7106280}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1C26E78-BE1A-431F-BB9E-B6F9E7106280}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1C26E78-BE1A-431F-BB9E-B6F9E7106280}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1C26E78-BE1A-431F-BB9E-B6F9E7106280}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABFB4111-3AC7-46C5-B67A-F58DB2B4FDB7}
+	EndGlobalSection
+EndGlobal
